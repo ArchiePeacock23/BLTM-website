@@ -7,23 +7,7 @@ this game is based around a character made of bacon lettuce and tomato that is f
 
 the character is made up of bacon lettuce and tomato he has many abilitys that are food based
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
