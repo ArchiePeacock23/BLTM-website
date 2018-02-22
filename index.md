@@ -3,9 +3,9 @@
 this game is based around a character made of bacon lettuce and tomato that is fight the evil mayonaise
 
 
-### Markdown
+### the character
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+the character is made up of bacon lettuce and tomato he has many abilitys that are food based
 
 ```markdown
 Syntax highlighted code block
